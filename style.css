@@ -1,0 +1,4 @@
+body { background-color: #e2e9e2; color: 000; font: 13px/18px Georgia, vernada, arial; }
+#opaic { opacity: 0.9; }
+a:link, a:visited { color: #006600; text-decoration: none; font-weight: bold; }
+a:hover { color: #006600; text-decoration: none; font-weight: bold; opacity: 0.8; }
